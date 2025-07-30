@@ -1,0 +1,16 @@
+.login {
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.error {
+    color: red;
+}
